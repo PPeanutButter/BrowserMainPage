@@ -11,7 +11,6 @@
         <link href="init-7d80ace317.css" rel="stylesheet"/>
         <script src="jquery.min.js">
         </script>
-        
     </head>
     <body>
         <center>
@@ -20,7 +19,7 @@
             </div>
         </center>
         <div class="search">
-            <form action="https://www.baidu.com/s" class="tsf" data-submitfalse="f" id="tsf" method="GET" name="f" role="search" style="overflow:visible">
+            <form action="https://www.baidu.com/s" class="tsf" data-submitfalse="f" id="tsf" method="GET" name="f" role="search" style="overflow:visible;z-index: 999;">
                 <div class="card">
                     <div class="input-box">
                         <div class="icon">
@@ -33,17 +32,21 @@
                                 </span>
                             </div>
                             <div class="a4bIc">
-                                <input autocomplete="off" class="gLFyf gsfi" maxlength="2048" name="wd" type="text">
+                                <input autocomplete="off" class="gLFyf gsfi input-view" maxlength="2048" name="wd" type="text">
                                 </input>
+                                <script src="search.js">
+                                </script>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="think_panel" style="display: none;">
                 </div>
             </form>
         </div>
         <div style="margin-top: 64px;">
             <div class="card chip_panel">
-                <div id="sites_panel" class="s-mblock-content s-opacity-blank3">
+                <div class="s-mblock-content s-opacity-blank3" id="sites_panel">
                 </div>
             </div>
         </div>
