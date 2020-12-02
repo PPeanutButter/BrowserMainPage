@@ -30,7 +30,7 @@ function do_think() {
 }
 
 function switch_input_bg(text) {
-    if (text != "") {
+    if (text != "" && think_list.length != 0) {
         //等待请求成功再改变
         $("div.card:first").attr("class", "think_card card");
         $("div.think_panel").css("display","block");
