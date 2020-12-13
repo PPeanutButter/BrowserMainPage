@@ -17,3 +17,5 @@ panel.append(getSiteContent("友盟统计","https://mobile.umeng.com/platform/ap
 panel.append(getSiteContent("字幕库","http://www.zimuku.la/"));
 panel.append(getSiteContent("Coding","https://ppeanutbutter.coding.net/user","favicons/coding.png"));
 panel.append(getSiteContent("研究生网","http://218.197.101.24/"));
+panel.append(getSiteContent("TED-Ed","https://ed.ted.com/lessons?content_type=animations&student_level=4&direction=desc&sort=publish-date","favicons/teded.png"));
+panel.append(getSiteContent("码云","https://gitee.com/peanutbutter/dashboard/projects","favicons/mayun.ico"));
