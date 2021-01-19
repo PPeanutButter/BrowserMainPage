@@ -4,10 +4,10 @@
     min-height: 150px;
 }
 
-@keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 100px;}}
-@-moz-keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 100px;}}
-@-webkit-keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 100px;}}
-@-o-keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 100px;}}
+@keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 120px;}}
+@-moz-keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 120px;}}
+@-webkit-keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 120px;}}
+@-o-keyframes myfirst {0% {margin-top: 0px;}100% {margin-top: 120px;}}
 
 #google-logo {
     animation: myfirst 0.5s;
