@@ -23,7 +23,6 @@ function do_think() {
         success: function(data) {
         	think_list = [];
             for (var index in data.g) think_list.push(data.g[index].q);
-            console.log(think_list);
             switch_input_bg(a);
         }
     })
@@ -47,6 +46,7 @@ function switch_input_bg(text) {
 }
 
 function onThinkSelect(text){
+    console.log("select:"+text)
 	input.val(text);
 	$(".tsf").submit();
 }
