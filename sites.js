@@ -21,3 +21,4 @@ panel.append(getSiteContent("BTBTT","https://btbtt10.com/","favicons/btbtt.ico")
 panel.append(getSiteContent("在线正则","https://regex101.com/","favicons/regex101.ico"));
 panel.append(getSiteContent("AirPotal","https://airportal.cn/","favicons/airportal.png"));
 panel.append(getSiteContent("迅雷解析","https://xunlei.kinh.cc/","favicons/kinh.png"));
+panel.append(getSiteContent("迅雷云盘","https://pan.xunlei.com/","favicons/xunlei.png"));
