@@ -22,3 +22,4 @@ panel.append(getSiteContent("在线正则","https://regex101.com/","favicons/reg
 panel.append(getSiteContent("AirPotal","https://airportal.cn/","favicons/airportal.png"));
 panel.append(getSiteContent("迅雷解析","https://xunlei.kinh.cc/","favicons/kinh.png"));
 panel.append(getSiteContent("迅雷云盘","https://pan.xunlei.com/","favicons/xunlei.png"));
+panel.append(getSiteContent("Aria2 Web","http://peanutbutter.gitee.io/aria2c","favicons/aria2.png"));
