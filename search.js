@@ -7,7 +7,7 @@ input.focus(function() {
 input.blur(function() {
 	setTimeout(function (){
 		switch_input_bg("");
-}, 100);
+}, 300);
 });
 var think_list = [];
 function do_think() {
