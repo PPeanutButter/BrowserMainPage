@@ -11,7 +11,7 @@ input.blur(function() {
 });
 var think_list = [];
 function do_think() {
-    var a = input.val();
+    const a = input.val();
     if (a == "") {
     	switch_input_bg("");
     	return;
