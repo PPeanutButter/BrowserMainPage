@@ -24,3 +24,4 @@ panel.append(getSiteContent("Discord","https://discord.com/channels/662267976984
 panel.append(getSiteContent("俄区正版游戏","https://byrut.org/index.php?do=","favicons/byrut.png"));
 panel.append(getSiteContent("TAPD","https://www.tapd.cn/my_worktable/index/done#&filter_close=true"));
 panel.append(getSiteContent("GitLab","https://git.17zjh.com/"));
+panel.append(getSiteContent("微派语雀","https://wepie.yuque.com/dashboard"));
