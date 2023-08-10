@@ -26,4 +26,4 @@ panel.append(getSiteContent("TAPD","https://www.tapd.cn/my_worktable/index/done#
 panel.append(getSiteContent("GitLab","https://git.17zjh.com/"));
 panel.append(getSiteContent("微派语雀","https://wepie.yuque.com/dashboard"));
 panel.append(getSiteContent("Z-Library","https://zlibrary-ca.se/"));
-panel.append(getSiteContent("Firebase","https://console.firebase.google.com/project/weplay-1615777951368/overview?hl=zh-cn", "firebase_28dp.png"));
+panel.append(getSiteContent("Firebase","https://console.firebase.google.com/project/weplay-1615777951368/overview?hl=zh-cn", "favicons/firebase_28dp.png"));
