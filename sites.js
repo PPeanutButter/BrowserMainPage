@@ -19,7 +19,7 @@ panel.append(getSiteContent("研究生网","http://218.197.101.24/"));
 panel.append(getSiteContent("码云","https://gitee.com/peanutbutter/dashboard/projects","favicons/mayun.ico"));
 panel.append(getSiteContent("BTBTT","https://btbtt11.com/","favicons/btbtt.ico"));
 panel.append(getSiteContent("在线正则","https://regex101.com/","favicons/regex101.ico"));
-panel.append(getSiteContent("Aria2 Web","http://peanutbutter.gitee.io/aria2c","favicons/aria2.png"));
+panel.append(getSiteContent("Aria2 Web","https://peanutbutter.gitee.io/aria2c","favicons/aria2.png"));
 panel.append(getSiteContent("Discord","https://discord.com/channels/662267976984297473/976997386436104202","favicons/discord.png"));
 panel.append(getSiteContent("俄区正版游戏","https://byrut.org/index.php?do=","favicons/byrut.png"));
 panel.append(getSiteContent("TAPD","https://www.tapd.cn/my_worktable/index/done#&filter_close=true"));
