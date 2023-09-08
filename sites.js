@@ -28,3 +28,5 @@ panel.append(getSiteContent("微派语雀","https://wepie.yuque.com/dashboard"))
 panel.append(getSiteContent("Z-Library","https://zlibrary-ca.se/"));
 panel.append(getSiteContent("Firebase","https://console.firebase.google.com/project/weplay-1615777951368/overview?hl=zh-cn", "favicons/firebase_28dp.png"));
 panel.append(getSiteContent("Google Pay","https://play.google.com/console/u/0/developers/5129658753235517501/app-list"));
+panel.append(getSiteContent("Crowdin","https://wejoy.crowdin.com/u/projects/11/files"));
+panel.append(getSiteContent("微派图床","https://config-admin.weplayapp.com/global/tools/compression"));
