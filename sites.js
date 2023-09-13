@@ -22,11 +22,11 @@ panel.append(getSiteContent("在线正则","https://regex101.com/","favicons/reg
 panel.append(getSiteContent("Aria2 Web","http://peanutbutter.gitee.io/aria2c","favicons/aria2.png"));
 panel.append(getSiteContent("Discord","https://discord.com/channels/662267976984297473/976997386436104202","favicons/discord.png"));
 panel.append(getSiteContent("俄区正版游戏","https://byrut.org/index.php?do=","favicons/byrut.png"));
-panel.append(getSiteContent("TAPD","https://www.tapd.cn/my_worktable/index/done#&filter_close=true"));
-panel.append(getSiteContent("GitLab","https://git.17zjh.com/"));
-panel.append(getSiteContent("微派语雀","https://wepie.yuque.com/dashboard"));
+panel.append(getSiteContent("TAPD","https://www.tapd.cn/my_worktable/index/done#&filter_close=true", "favicons/tapd.ico"));
+panel.append(getSiteContent("GitLab","https://git.17zjh.com/", "favicons/gitlab.png"));
+panel.append(getSiteContent("微派语雀","https://wepie.yuque.com/dashboard", "favicons/yuque.png"));
 panel.append(getSiteContent("Z-Library","https://zlibrary-ca.se/"));
 panel.append(getSiteContent("Firebase","https://console.firebase.google.com/project/weplay-1615777951368/overview?hl=zh-cn", "favicons/firebase_28dp.png"));
-panel.append(getSiteContent("Google Pay","https://play.google.com/console/u/0/developers/5129658753235517501/app-list"));
+panel.append(getSiteContent("Google Pay","https://play.google.com/console/u/0/developers/5129658753235517501/app-list", "favicons/google.ico"));
 panel.append(getSiteContent("Crowdin","https://wejoy.crowdin.com/u/projects/11/files", "favicons/crowdin.ico"));
-panel.append(getSiteContent("微派图床","https://config-admin.weplayapp.com/global/tools/compression"));
+panel.append(getSiteContent("微派图床","https://config-admin.weplayapp.com/global/tools/compression", "favicons/wepie.ico"));
