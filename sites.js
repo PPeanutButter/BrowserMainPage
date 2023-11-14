@@ -24,3 +24,4 @@ panel.append(getSiteContent("Firebase","https://console.firebase.google.com/proj
 panel.append(getSiteContent("Google Pay","https://play.google.com/console/u/0/developers/5129658753235517501/app-list", "favicons/google.ico"));
 panel.append(getSiteContent("Crowdin","https://wejoy.crowdin.com/u/projects/11/files", "favicons/crowdin.ico"));
 panel.append(getSiteContent("微派图床","https://config-admin.weplayapp.com/global/tools/compression", "favicons/wepie.ico"));
+panel.append(getSiteContent("TinyPNG","https://tinify.cn/", "favicons/tinypng.ico"));
