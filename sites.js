@@ -11,7 +11,6 @@ console.log(panel.text());
 panel.append(getSiteContent("Github","https://github.com/","favicons/github.png"));
 panel.append(getSiteContent("小破站","https://www.bilibili.com/","favicons/bilibili.png"));
 panel.append(getSiteContent("字幕库","http://zimuku.org/"));
-panel.append(getSiteContent("Coding","https://ppeanutbutter.coding.net/user","favicons/coding.png"));
 panel.append(getSiteContent("码云","https://gitee.com/peanutbutter/dashboard/projects","favicons/mayun.ico"));
 panel.append(getSiteContent("BTBTT","https://btbtt11.com/","favicons/btbtt.ico"));
 panel.append(getSiteContent("在线正则","https://regex101.com/","favicons/regex101.ico"));
