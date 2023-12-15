@@ -15,9 +15,8 @@ panel.append(getSiteContent("码云","https://gitee.com/peanutbutter/dashboard/p
 panel.append(getSiteContent("BTBTT","https://btbtt11.com/","favicons/btbtt.ico"));
 panel.append(getSiteContent("在线正则","https://regex101.com/","favicons/regex101.ico"));
 panel.append(getSiteContent("俄区正版游戏","https://byrut.org/index.php?do=","favicons/byrut.png"));
-panel.append(getSiteContent("TAPD","https://www.tapd.cn/my_worktable/index/done#&filter_close=true", "favicons/tapd.ico"));
+panel.append(getSiteContent("飞书项目","https://project.feishu.cn/"));
 panel.append(getSiteContent("GitLab","https://git.17zjh.com/", "favicons/gitlab.png"));
-panel.append(getSiteContent("微派语雀","https://wepie.yuque.com/dashboard", "favicons/yuque.png"));
 panel.append(getSiteContent("Z-Library","https://zlibrary-ca.se/", "favicons/z.ico"));
 panel.append(getSiteContent("Firebase","https://console.firebase.google.com/project/weplay-1615777951368/overview?hl=zh-cn", "favicons/firebase_28dp.png"));
 panel.append(getSiteContent("Google Pay","https://play.google.com/console/u/0/developers/5129658753235517501/app-list", "favicons/google.ico"));
